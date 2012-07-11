@@ -1,6 +1,6 @@
 #Northampton
 
-What will be a Multi Purpose Android App for Local Authorities.
+Multi Purpose Android App for Local Authorities
 
 ### to do list
 1. write app
