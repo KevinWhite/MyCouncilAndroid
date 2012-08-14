@@ -6,3 +6,4 @@ Multi Purpose Android App for Local Authorities
 1. write app
 2. test app
 3. distribute app
+4. take a day off.
