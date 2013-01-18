@@ -3,8 +3,6 @@ package uk.gov.northampton.android.lib;
 import java.util.ArrayList;
 import uk.gov.northampton.android.SocialEntry;
 
-import android.R;
-import android.content.res.Resources;
 import android.util.Log;
 
 public class SocialFeedRetriever {

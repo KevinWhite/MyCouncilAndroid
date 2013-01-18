@@ -37,8 +37,9 @@ public final class R {
     public static final class string {
         public static final int app_name=0x7f040000;
         public static final int google_maps_api_key=0x7f040007;
+        public static final int google_maps_api_key_debug=0x7f040008;
         public static final int select_button_text=0x7f040006;
-        public static final int social_feed_url=0x7f040008;
+        public static final int social_feed_url=0x7f040009;
         public static final int tab_contact=0x7f040005;
         public static final int tab_find=0x7f040003;
         public static final int tab_report=0x7f040002;
