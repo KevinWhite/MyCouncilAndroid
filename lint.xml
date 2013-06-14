@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <lint>
+    <issue id="NewApi">
+        <ignore path="src/uk/gov/northampton/droid/fragments/Contact.java" />
+        <ignore path="src/uk/gov/northampton/droid/fragments/Contact2.java" />
+        <ignore path="src/uk/gov/northampton/droid/fragments/Contact3.java" />
+        <ignore path="src/uk/gov/northampton/droid/fragments/ContactMessage.java" />
+    </issue>
     <issue id="SetJavaScriptEnabled">
-        <ignore path="src/uk/gov/northampton/android/lib/CustomWebViewActivity.java" />
+        <ignore path="src/uk/gov/northampton/droid/lib/CustomWebViewActivity.java" />
     </issue>
 </lint>
